@@ -1,0 +1,24 @@
+{
+  "name": "node_test",
+  "version": "1.0.0",
+  "description": "mon premier site node.js",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seth-creator/node_test.git"
+  },
+  "author": "sako",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seth-creator/node_test/issues"
+  },
+  "homepage": "https://github.com/seth-creator/node_test#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
